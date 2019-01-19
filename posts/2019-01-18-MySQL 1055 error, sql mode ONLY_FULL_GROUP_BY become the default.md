@@ -1,8 +1,8 @@
 ## MySQL 1055 error, sql mode ONLY_FULL_GROUP_BY become the default
 
 We encountered a sql_mode problem when our test environment migrated.
-Our O&M team upgrated version of MySQL to 5.7.24. 
-Many mode keep up with OracleDB, since MySQL was acquired by Oracle and the problem we encountered also cased by this.
+Our O&M team upgraded version of MySQL to 5.7.24.
+Many modes keep up with OracleDB since MySQL was acquired by Oracle and the problem we encountered also caused by this.
 With MySQL 5.7 ONLY_FULL_GROUP_BY will become the default.
 
 [check this blog on mysqlserverteam](http://mysqlserverteam.com/mysql-5-7-only_full_group_by-improved-recognizing-functional-dependencies-enabled-by-default/)

@@ -1,0 +1,9 @@
+How to establish a network video living broadcast system?
+
+You can use the following list in which every project is open source and free.
+
+video capture ： [OBS ](https://obsproject.com/)
+
+server ： [livego](https://github.com/gwuhaolin/livego)
+
+player： [flv.js](http://bilibili.github.io/flv.js/)

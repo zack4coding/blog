@@ -10,7 +10,7 @@ A method is able to operate on data that is contained within the class (remember
 
 FOR Python
 This is the new class hierarchy for functions and methods:
-
+```
               object
                  |
                  |
@@ -23,6 +23,7 @@ cfunction (*)    |         \
                  |       function
                  |
            bound_method (*)
+```
 The two classes marked with (*) do not allow subclassing; the others do.
 
 There is no difference between functions and unbound methods, while bound methods are instances of bound_method.

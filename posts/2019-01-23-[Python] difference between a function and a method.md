@@ -29,5 +29,6 @@ The two classes marked with (*) do not allow subclassing; the others do.
 There is no difference between functions and unbound methods, while bound methods are instances of bound_method.
 
 References
-[stackoverflow]{https://stackoverflow.com/questions/155609/whats-the-difference-between-a-method-and-a-function?rq=1}
+[stackoverflow](https://stackoverflow.com/questions/155609/whats-the-difference-between-a-method-and-a-function?rq=1)
+
 [PEP 575 -- Unifying function/method classes](https://www.python.org/dev/peps/pep-0575/#withdrawal-notice)

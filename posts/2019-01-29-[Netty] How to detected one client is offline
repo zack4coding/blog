@@ -1,0 +1,1 @@
+Answer is Override channelInactive method when you implement ChannelInboundHandler.
